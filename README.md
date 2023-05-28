@@ -1,0 +1,2 @@
+# Tanchik
+Python game
