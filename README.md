@@ -1,3 +1,5 @@
+![end](https://github.com/khreeva/Tanchik/assets/131894737/db555bba-d0b9-4c63-ae2e-43aaca600382)
+![image](https://github.com/khreeva/Tanchik/assets/131894737/c10f5750-98b2-43db-8a6e-ebfa1efea9b5)
 # Tanchik
 Игра "Танчик" на языке программирования Python с использованием библиотеки Pygame. 
 # Инструкции к игре
@@ -22,5 +24,5 @@
 3. Когда Вы закончите работу, отправьте запрос на изменения. В этом запросе опишите изменения, которые сделали, а также почему Вы считаете, что эти изменения важны и полезны для проекта.
 # Скриншоты игры
 Ниже представлены фрагменты игры.
-![image](https://github.com/khreeva/Tank/assets/131894737/652c5ad5-8ef9-4842-ba6e-1af6aae95598)
-![image (1)](https://github.com/khreeva/Tank/assets/131894737/5fa3b6f3-92d7-499a-bac4-90b7ff2f9811)
+![end](https://github.com/khreeva/Tanchik/assets/131894737/e8a73466-4cef-4869-b1a3-4866b0c5017c)
+![image](https://github.com/khreeva/Tanchik/assets/131894737/a6430abb-f343-49b0-8daa-76c23409dd86)
