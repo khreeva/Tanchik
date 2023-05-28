@@ -1,5 +1,3 @@
-![end](https://github.com/khreeva/Tanchik/assets/131894737/db555bba-d0b9-4c63-ae2e-43aaca600382)
-![image](https://github.com/khreeva/Tanchik/assets/131894737/c10f5750-98b2-43db-8a6e-ebfa1efea9b5)
 # Tanchik
 Игра "Танчик" на языке программирования Python с использованием библиотеки Pygame. 
 # Инструкции к игре
